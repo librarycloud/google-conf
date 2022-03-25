@@ -55,6 +55,5 @@
 *.storage-download.googleapis.com
 *.storage.googleapis.com
 *.support.google.com
-*.test.devsite.corp.google.com
 *.translate.google.com
 *.url.google.com
